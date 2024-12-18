@@ -110,7 +110,7 @@ def send(data):
         print("Error: No private key")
         return None
 
-    if len(data) > payload_size:
+    if len(data) > (payload_size - 2):
         print("Error: Data too large")
         return None
 
