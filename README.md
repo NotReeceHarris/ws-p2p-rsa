@@ -2,7 +2,7 @@
 
 **A Open-Source Peer-to-Peer RSA Communication**
 
-ws-p2p-rsa provides a peer-to-peer (P2P) communication with RSA.
+ws-p2p-rsa provides a peer-to-peer (P2P) communication with RSA, using the [ws-p2p-framework](https://github.com/NotReeceHarris/ws-p2p-framework).
 
 ## Usage
 
