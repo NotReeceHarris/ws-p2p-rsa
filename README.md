@@ -1,8 +1,8 @@
-# ws-p2p-framework
+# ws-p2p-rsa
 
-**A Flexible Open-Source Framework for Peer-to-Peer Communication**
+**A Open-Source Peer-to-Peer RSA Communication**
 
-ws-p2p-framework provides a robust and customizable solution for peer-to-peer (P2P) communication with an integrated GUI. This framework allows users to tailor the communication protocols, handshakes, encryption methods, and more to suit their specific needs.
+ws-p2p-rsa provides a peer-to-peer (P2P) communication with RSA.
 
 ## Usage
 
@@ -20,14 +20,6 @@ python3 main.py --target 192.168.0.2:8000 --host 192.168.0.1:8000
 
 - Python: Python 3.x is required.
 - GUI Environment: Ensure you have a graphical environment; terminal support is planned for future updates.
-
-## Forks
-
-Here are some notable forks of the ws-p2p-framework that add specific functionalities:
-
-Name | Description | Link
---- | --- | ---
-ws-p2p-rsa | RSA encrypted per-to-per communication. | [NotReeceHarris/ws-p2p-rsa](https://github.com/NotReeceHarris/ws-p2p-rsa)
 
 ## License
 
